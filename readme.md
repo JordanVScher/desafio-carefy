@@ -79,6 +79,14 @@ npm run start
 
 ```
 
+### Screenshots
 
+<br>
+
+![Screenshot of index page](/assets/Screenshot_Index.png "Screenshot of index page")
+
+<br>
+
+![Screenshot of patient crud page](/assets/Screenshot_Crud.png "Screenshot of patient crud page")
 
 
